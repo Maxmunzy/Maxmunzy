@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Engineer;LLM+%C2%B7+RAG+%C2%B7+NLP+%C2%B7+Machine+Learning;Python+%C2%B7+PyTorch+%C2%B7+FastAPI" alt="typing" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Maxmunzy&label=Profile%20views&color=2F81F7&style=flat" alt="views" />
-
 </div>
 
 ---
@@ -98,10 +94,6 @@ class AshleyKim:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxmunzy&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maxmunzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
 
 <br/>
 
